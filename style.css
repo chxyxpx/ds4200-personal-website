@@ -94,3 +94,4 @@ footer {
 }
 footer h3 { color: var(--gold); margin-top: 0; }
 footer a { color: var(--white); }
+.gallery img.crop-left { object-position: 35% center; }
